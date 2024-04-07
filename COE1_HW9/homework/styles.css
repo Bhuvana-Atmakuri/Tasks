@@ -1,0 +1,23 @@
+.hidden {
+    display: none;
+}
+
+.tweet-item {
+    margin-bottom: 10px;
+}
+
+.like-button {
+    margin-left: 5px;
+}
+
+.remove-button {
+    margin-left: 5px;
+}
+
+.goToLiked {
+    margin-top: 10px;
+}
+
+.formButtons button {
+    margin-left: 5px;
+}
